@@ -48,3 +48,15 @@ Backend:
 cd Backend
 npm install
 node server.js
+
+👨‍💻 Team Members
+Asmita Chakrabarty(241001009042)
+Gopa Paul(241001009071)
+Sampurna Sett(241001009049)
+Souriki De(241001009009)
+
+🌍 Impact
+*Reduces food waste
+*Fights hunger
+*Supports sustainability
+*Builds community support system
